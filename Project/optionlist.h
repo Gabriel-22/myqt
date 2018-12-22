@@ -2,7 +2,6 @@
 #define OPTIONLIST_H
 
 #include "block.h"
-#include "blocktype.h"
 
 #include <QListWidget>
 #include <QMimeData>
